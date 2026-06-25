@@ -1,3 +1,2 @@
-This is lab task file
-File name corrected successfully
-
+This is lab task file.
+File name corrected successfully.
